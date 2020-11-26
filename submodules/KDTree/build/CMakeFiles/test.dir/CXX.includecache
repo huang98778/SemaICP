@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/2DTree.h
+
+/home/hy/Ecarx_ws/HY520/semICP/submodules/KDTree/test/test.cpp
+2DTree.h
+/home/hy/Ecarx_ws/HY520/semICP/submodules/KDTree/test/2DTree.h
+iostream
+-
+

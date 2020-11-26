@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x -O3 -mtune=native -O3 -DNDEBUG   CMakeFiles/test.dir/test/test.cpp.o  -o test -rdynamic lib2dTree.so -Wl,-rpath,/home/hy/Ecarx_ws/HY520/semICP/submodules/KDTree/build 
